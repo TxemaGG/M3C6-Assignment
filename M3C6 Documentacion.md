@@ -8,7 +8,7 @@ En definitiva las clases son mapeadores de objetos, lo que básicamente te permi
 
 La programación orientada a objetos tiene algunas ventajas sobre otros patrones de diseño. El desarrollo es más rápido y con una mejor mantenibilidad del software. Esto, a su vez, conduce a un software de mayor calidad, que además es extensible con nuevos métodos y atributos. Sin embargo, es importante saber que la curva de aprendizaje es más pronunciada. Por otro lado, el software de POO es más lento y utiliza más memoria, ya que hay que escribir más líneas de código.
 
-![La Clase & El Objeto](https://s3.us-east-2.amazonaws.com/mgpanel/619-poo-mgpanel2.jpg)
+![Objeto & Clase](https://www.cursosgis.com/wp-content/uploads/2017/06/python_objetos_4-700x524.png)
 
 La programación orientada a objetos se basa en el paradigma de la ***programación imperativa***, que utiliza declaraciones para cambiar el estado de un programa. Se centra en describir cómo debe funcionar un programa.
 
