@@ -383,7 +383,7 @@ Para concluir te recomiendo que veas este video para dar los primeros pasos en e
 
 > El **polimorfismo** en el lenguaje de Python está muy relacionado con el concepto de herencia y hace referencia a lo que podría parecer una palabra grande o compleja pero en realidad refleja algo sencillo. A nivel etimológico, "poli" significa muchos y "morfismo" significa cambiar, lo que supone que estamos hablando de un concepto de Python que aglutina muchos cambios.
 
-![Polimorfismo es...](https://files.codingninjas.in/article_images/custom-upload-1683185384.webp)
+![Herencia & Polimorfismo](https://www.cursosgis.com/wp-content/uploads/2017/06/python_objetos_5.png)
 
 * Siguiendo con el significado de polimorfismo en Python, éste hace referencia a la capacidad que tienen los objetos de diferentes clases para responder al mismo mensaje. En otras palabras, dos objetos de diferentes clases pueden tener métodos con el mismo nombre, y ambos métodos pueden ser llamados con el mismo código, dando respuestas diferentes. 
 
