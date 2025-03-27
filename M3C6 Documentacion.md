@@ -300,7 +300,7 @@ Las APIs sirven para establecer un punto de conexión o interacción entre dos s
 
 El uso que se le dé dependerá de los permisos otorgados por el propietario de la API. La forma en la que una de las partes envía la solicitud de respuesta determinará cómo responderá el software de la otra parte.
 
-![Cómo funcionan las API](https://outvio.com/static/b649eefd687b1e175f6cb22298929902/cfddd/cl2t0lc4l000w7b7t0yli356j.webp)
+![Cómo funcionan las API](https://dazzet.co/wp-content/uploads/2023/10/API-Espanol.jpg)
 
 En función del tipo de API, el funcionamiento de esta cambiará. Sin embargo, de forma general, podemos decir que una API actúa como mensajero mandando una solicitud a un servidor, traduciendo el mensaje y entregando la respuesta al usuario.
 
